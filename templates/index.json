@@ -613,31 +613,31 @@
     "rich_text_wi8kAq": {
       "type": "rich-text",
       "blocks": {
+        "heading_HY4gjM": {
+          "type": "heading",
+          "settings": {
+            "text": "Des ingrédients naturelles pour un meilleur sommeil",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
         "subheading_pFwjcA": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_jMNLqj": {
-          "type": "heading",
-          "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
+            "text": "🌿 Des ingrédients naturels, choisis pour leur efficacité"
           }
         },
         "richtext_rbEBqw": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p><br/>Notre patch sommeil est formulé à partir d’actifs reconnus pour leurs bienfaits sur le sommeil. Chacun a été sélectionné avec soin pour favoriser la détente, l’endormissement et un repos profond — naturellement et sans accoutumance.</p>"
           }
         }
       },
       "block_order": [
+        "heading_HY4gjM",
         "subheading_pFwjcA",
-        "heading_jMNLqj",
         "richtext_rbEBqw"
       ],
       "name": "Rich text",
