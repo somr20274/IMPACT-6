@@ -684,41 +684,89 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Comment fonctionne nos patchs ?",
+            "content": "<p>Le patch diffuse lentement des ingrédients actifs naturels (comme la mélatonine, la valériane, le houblon et le magnésium) à travers la peau pendant la nuit. Cela aide à favoriser l’endormissement, réduire le stress et améliorer la qualité du sommeil sans provoquer de somnolence au réveil.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Où dois-je appliquer le patch ?",
+            "content": "<p><strong>Appliquez-le sur une zone propre, sèche et peu poilue </strong></p><p>- avant-bras</p><p>- cuisse</p><p>- épaule</p><p><strong>- bas du dos<br/><br/>Évitez les zones irritées ou blessées.</strong></p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Quand dois-je l’appliquer ?",
+            "content": "<p>Nous recommandons d’appliquer le patch <strong>30 minutes à 1 heure avant le coucher</strong>, pour laisser le temps aux ingrédients d’agir.</p>"
+          }
+        },
+        "item_yNfjrn": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de temps dure un patch ?",
+            "content": "<p>Chaque patch est conçu pour diffuser ses actifs pendant <strong>6 à 8 heures</strong>. Il peut être retiré facilement au réveil.</p>"
+          }
+        },
+        "item_3gtAxw": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que le patch est réutilisable ?",
+            "content": "<p>Non. Pour garantir son efficacité, le patch est <strong>à usage unique</strong>.</p>"
+          }
+        },
+        "item_KpqWFe": {
+          "type": "item",
+          "settings": {
+            "title": "Y a-t-il des effets secondaires ?",
+            "content": "<p>Nos patchs sont formulés avec des ingrédients naturels, reconnus pour leur sécurité. Ils ne provoquent ni dépendance ni effet de \"gueule de bois\". Toutefois, si vous êtes sensible à la mélatonine ou à certaines plantes, nous vous conseillons de consulter un professionnel de santé avant usage.</p>"
+          }
+        },
+        "item_daY7yL": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je l’utiliser tous les soirs ?",
+            "content": "<p>Oui, nos patchs peuvent être utilisés quotidiennement ou de manière ponctuelle (par exemple, en cas de stress, jetlag ou insomnies passagères).</p>"
+          }
+        },
+        "item_L7jBEF": {
+          "type": "item",
+          "settings": {
+            "title": "Quels sont les ingrédients ?",
+            "content": "<p>Chaque patch contient :</p><p><strong>Mélatonine (0,5 mg)<br/><br/>Racine de valériane<br/><br/>Extrait de houblon<br/><br/>Malate de magnésium (0,5 mg</strong>)</p><p><br/>Sans OGM, sans hormones, vegan, non testé sur les animaux.</p>"
+          }
+        },
+        "item_KrwqfE": {
+          "type": "item",
+          "settings": {
+            "title": "Quels sont les délais de livraison ?",
+            "content": "<p>En France, la livraison prend généralement <strong>3 à 6 jours ouvrés</strong> après expédition. Pour la Belgique et la Suisse, prévoir <strong>5 à 8 jours ouvrés</strong>.</p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_yNfjrn",
+        "item_3gtAxw",
+        "item_KpqWFe",
+        "item_daY7yL",
+        "item_L7jBEF",
+        "item_KrwqfE"
       ],
       "settings": {
         "full_width": false,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "Notre support client est disponible du lundi au vendredi : de 8h à 20h30.",
+        "answer_time": "Temps de réponse moyen : 24h",
         "button_text": "",
         "button_url": "",
-        "text_position": "start",
+        "text_position": "center",
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
