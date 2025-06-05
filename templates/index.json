@@ -526,8 +526,8 @@
             "image": "shopify://shop_images/section-9-1.jpg",
             "icon": "none",
             "icon_width": 48,
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "title": "",
+            "content": "<h2><strong>Comment fonctionne nos patch ?</strong></h2><h2></h2><h3>1. <strong>Couche de contact avec la peau</strong></h3><p>La couche de contact du patch contient <strong>un adhésif sûr pour la peau</strong>, que vous pouvez utiliser confortablement et en toute sécurité sur n’importe quelle zone du corps. Elle est suffisamment résistante pour rester en place toute la nuit.</p><h3>2. <strong>Couche d’ingrédients actifs</strong></h3><p>Tous les ingrédients actifs sont contenus dans la couche intermédiaire. <strong>Une fois le film protecteur retiré</strong>, les composants actifs <strong>se diffusent progressivement dans votre corps tout au long de la nuit</strong>.</p><h3>3. <strong>Couche de support</strong></h3><p>Le dos du patch est recouvert d’une <strong>mousse douce</strong>, qui <strong>maintient le patch en place</strong> tout en <strong>dirigeant les ingrédients actifs vers la peau</strong> pour une absorption optimale.</p>"
           }
         }
       },
