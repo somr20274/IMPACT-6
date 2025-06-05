@@ -340,9 +340,13 @@
             "payment_button_text_color": ""
           }
         },
-        "pickup_availability_TecmRB": {
-          "type": "pickup_availability",
-          "settings": {}
+        "image_kpq7Tm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/PROMOTION_2025_9.png",
+            "alignment": "start",
+            "max_width": 480
+          }
         }
       },
       "block_order": [
@@ -356,7 +360,7 @@
         "variant_picker_X9tcWV",
         "quantity_selector_kezcxg",
         "buy_buttons_CfFzy7",
-        "pickup_availability_TecmRB"
+        "image_kpq7Tm"
       ],
       "name": "Featured product",
       "settings": {
