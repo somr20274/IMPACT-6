@@ -363,7 +363,7 @@
         "enable_video_looping": false,
         "enable_image_zoom": true,
         "max_image_zoom_level": 3,
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
@@ -376,24 +376,32 @@
         "tab_EaEzat": {
           "type": "tab",
           "settings": {
-            "title": "Tab 1",
-            "content": "<p>Use this text to share information about your brand with your customers.</p>",
+            "title": "Description",
+            "content": "<p><strong>Transformez vos nuits avec nos patchs de sommeil.</strong><br/><br/>Conçu pour favoriser un endormissement rapide et un sommeil profond, ce patch diffuse en continu ses actifs tout au long de la nuit. Sans accoutumance, sans hormones et ultra facile à utiliser, il devient votre nouvel allié bien-être.<br/><br/>Discret, confortable, et efficace dès la première utilisation.</p>",
             "page": ""
           }
         },
         "tab_jLTkAw": {
           "type": "tab",
           "settings": {
-            "title": "Tab 2",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Composition",
+            "content": "<p><strong>Ingrédients actifs</strong> :<br/><br/><strong>Mélatonine</strong> : régule naturellement le cycle du sommeil.<br/><br/><strong>Extraits botaniques</strong> (valériane, passiflore, camomille) : apaisent l’esprit et le corps.</p><p><strong>Vitamine B6 : </strong>soutient le système nerveux et la production naturelle de mélatonine.</p><p><strong>+</strong> Formule vegan, sans OGM, sans hormones, non testée sur les animaux.</p>",
             "page": ""
           }
         },
         "tab_Ff7ekE": {
           "type": "tab",
           "settings": {
-            "title": "Tab 3",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "title": "Comment l'utiliser ?",
+            "content": "<p><strong>Décoller</strong> le film protecteur du patch.</p><p><strong>Appliquer</strong> sur une zone propre et sans poils : bras, épaule, cuisse ou bas du dos.</p><p><strong>Laisser agir</strong> pendant la nuit. Le patch diffuse ses actifs pendant 6 à 8 heures.</p><p><br/><strong>Retirer </strong>au réveil. Une bonne nuit vous attend.</p>",
+            "page": ""
+          }
+        },
+        "tab_AHXYUc": {
+          "type": "tab",
+          "settings": {
+            "title": "Livraison & Expédition",
+            "content": "<p>Toutes nos commandes sont préparées sous 24 à 48h et livrées en 3 à 6 jours ouvrés en France. La livraison est offerte dès 35€ d’achat. Un numéro de suivi est envoyé par e-mail dès l’expédition. Besoin d’aide ? Notre service client est disponible 7j/7.</p>",
             "page": ""
           }
         }
@@ -401,7 +409,8 @@
       "block_order": [
         "tab_EaEzat",
         "tab_jLTkAw",
-        "tab_Ff7ekE"
+        "tab_Ff7ekE",
+        "tab_AHXYUc"
       ],
       "name": "Tabs",
       "settings": {
@@ -410,7 +419,7 @@
         "subheading": "",
         "title": "",
         "first_tab_open": false,
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -504,7 +513,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 5,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
@@ -597,7 +606,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
