@@ -160,7 +160,7 @@
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><strong>Kevin B.</strong><br/>\"Je me réveille moins fatigué, c’est flagrant. C’est devenu un réflexe chaque soir.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -173,7 +173,7 @@
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><strong>Camille L.</strong><br/>\"Je m’endors en moins de 15 minutes et je ne me réveille plus à 4h du matin. Je revis !\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -186,7 +186,7 @@
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><strong>Sandra T.</strong><br/>\"Je suis infirmière et j’ai un rythme décalé. Ce patch m’aide à m’endormir même après les nuits de garde.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
