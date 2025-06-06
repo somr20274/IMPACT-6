@@ -26,6 +26,7 @@
     },
     "privacy-banner": {
       "type": "privacy-banner",
+      "disabled": true,
       "settings": {
         "privacy_bar_title": "Politique de Cookies",
         "privacy_bar_content": "<p>Nous utilisons des cookies et des technologies similaires pour vous offrir la meilleure expérience sur notre site web. Consultez notre politique de confidentialité pour plus d'informations.</p>"
@@ -37,7 +38,7 @@
         "show_cart_note": true,
         "show_shipping_text": true,
         "show_view_cart_button": true,
-        "show_checkout_button": true,
+        "show_checkout_button": false,
         "recommendations_title": "Trending this month",
         "products": [],
         "product_card_background": "#f2f2f2",
