@@ -614,7 +614,7 @@
         "item_PM9Ary": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/IMG_5596.png",
+            "image": "shopify://shop_images/Screenshot_2025-05-26_at_13.00.56.png",
             "column_size": "3",
             "title": "C'était un succès !",
             "heading_tag": "h4",
@@ -627,10 +627,11 @@
         "item_FVD6qb": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Photo_for_Aurlux_1.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Mon nouveau chouchou",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>J'ai toujours eu du mal à trouver la solution d'épilation idéale. L'épilation à la cire est très douloureuse, et le rasage laisse des coupures et une peau sèche et irritée. La crème élimine tous mes poils indésirables en quelques minutes, sans douleur ni saleté. De plus, la crème hydratante laisse ma peau douce et nourrie.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -649,7 +650,7 @@
         "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Approuvé par de nombreuses filles",
+        "title": "Approuvé par de nombreuses femmes",
         "content": "",
         "background": "",
         "background_gradient": "",
