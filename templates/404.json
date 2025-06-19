@@ -345,15 +345,15 @@
             "heading_tag": "h2"
           }
         },
+        "text_WeLRRi": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>🌸 Application facile et indolore </strong></p><p><strong>💖 Pour tous les types de peau </strong></p><p><strong>⏳ Douceur longue durée</strong></p>"
+          }
+        },
         "badges_3D7mi4": {
           "type": "badges",
           "settings": {}
-        },
-        "price_TXdJQM": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
         },
         "rating_9TFxk6": {
           "type": "rating",
@@ -405,8 +405,8 @@
       },
       "block_order": [
         "title_UKikFR",
+        "text_WeLRRi",
         "badges_3D7mi4",
-        "price_TXdJQM",
         "rating_9TFxk6",
         "description_LaJ6EB",
         "kaching_bundles_app_block_eibMPN",
