@@ -479,60 +479,92 @@
         "heading_gradient": ""
       }
     },
-    "multi_column_F8dYGp": {
-      "type": "multi-column",
+    "rich_text_JYATkW": {
+      "type": "rich-text",
       "blocks": {
-        "item_ccm9mp": {
-          "type": "item",
+        "heading_rx49tn": {
+          "type": "heading",
           "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_nhTWxQ": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_d9rkPd": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "text": "Peau lisse instantanément avec des résultats durables et permanents !",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
           }
         }
       },
       "block_order": [
-        "item_ccm9mp",
-        "item_nhTWxQ",
-        "item_d9rkPd"
+        "heading_rx49tn"
       ],
-      "name": "Multi-column",
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "#1a1a1a"
+      }
+    },
+    "slideshow_q8V9tc": {
+      "type": "slideshow",
+      "blocks": {
+        "image_xtfAiB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2024-11-07_at_00.36.36.png",
+            "mobile_image": "shopify://shop_images/Screenshot_2024-11-07_at_00.36.36.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_xtfAiB"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
+    "rich_text_kWp7HK": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_gVRt98": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h2><strong>Comment ça fonctionne ?</strong></h2><p><br/>1. <strong>Appliquer la crème dépilatoire :</strong><br/>Prenez une quantité généreuse de crème et répartissez-la uniformément sur la zone à traiter, en veillant à bien couvrir tous les poils. Pour un résultat optimal, appliquez une épaisseur d’environ 2 mm.<br/><br/>2. <strong>Laisser agir et retirer :</strong><br/>Laisser agir la crème 5 à 10 minutes. Ensuite, essuyer délicatement la crème à l’aide d’une serviette humide dans le sens inverse de la pousse du poil. Rincer abondamment à l’eau claire pour éliminer tout résidu. Sécher la peau en tapotant avec la spatule.<br/><br/>3. <strong>Hydrater et apaiser :</strong><br/>Appliquer une couche uniforme de crème hydratante sur la zone traitée. Masser délicatement jusqu’à absorption complète, laissant la peau douce et nourrie.<br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_gVRt98"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -697,7 +729,9 @@
     "multi_column_R8EKzJ",
     "featured_product_LkNRbJ",
     "tabs_6AYY3Q",
-    "multi_column_F8dYGp",
+    "rich_text_JYATkW",
+    "slideshow_q8V9tc",
+    "rich_text_kWp7HK",
     "before_after_image_ccdx9V",
     "rich_text_YPtBph",
     "video_eM6pdm",
