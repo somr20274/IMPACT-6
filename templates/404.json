@@ -595,22 +595,6 @@
         "drag_cursor_color": "#000000"
       }
     },
-    "scrolling_text_dweFEL": {
-      "type": "scrolling-text",
-      "name": "Scrolling text",
-      "settings": {
-        "full_width": true,
-        "text": "Soldes 2025 - Quantité limitée",
-        "text_size": "small",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 10,
-        "background": "#febbe7",
-        "background_gradient": "",
-        "text_color": "#ffffff",
-        "text_gradient": ""
-      }
-    },
     "slideshow_eRpLtF": {
       "type": "slideshow",
       "blocks": {
@@ -622,8 +606,8 @@
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide 1",
+            "subheading": "",
+            "title": "",
             "heading_tag": "h0",
             "button_text": "",
             "button_link": "",
@@ -793,7 +777,6 @@
     "slideshow_q8V9tc",
     "rich_text_kWp7HK",
     "before_after_image_ccdx9V",
-    "scrolling_text_dweFEL",
     "slideshow_eRpLtF",
     "rich_text_YPtBph",
     "video_eM6pdm",
