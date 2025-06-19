@@ -425,7 +425,7 @@
         "enable_video_looping": false,
         "enable_image_zoom": true,
         "max_image_zoom_level": 3,
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
@@ -446,8 +446,8 @@
         "tab_6NnAeL": {
           "type": "tab",
           "settings": {
-            "title": "Tab 2",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Détails & Bénéfices",
+            "content": "<p><strong>Adopté par plus de 10 000 femmes confiantes à travers le monde</strong><br/></p><h3>✨ Épilation facile et rapide</h3><p>La <strong>crème dépilatoire instantanée</strong> offre une peau lisse en quelques minutes grâce à une formule facile à appliquer, sans dégâts. Il suffit d’appliquer, d’attendre, puis de retirer délicatement pour révéler une peau douce, sans rasoir ni cire.</p><h3>✨ Résultats visibles & longue durée</h3><p>Notre formule avancée élimine même les poils les plus courts et les plus tenaces. Le gel hydratant inclus nourrit intensément votre peau, la laissant douce et lumineuse bien après l’épilation.</p><h3>✨ Sûr et recommandé par des dermatologues</h3><p>Formulé à base d’ingrédients sûrs et de haute qualité, ce kit permet une épilation efficace <strong>sans irritation ni produits agressifs</strong>. Recommandé par des dermatologues pour obtenir une peau douce, nette, et éclatante !</p>",
             "page": ""
           }
         },
@@ -472,7 +472,7 @@
         "subheading": "",
         "title": "",
         "first_tab_open": false,
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
