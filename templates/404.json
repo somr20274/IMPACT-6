@@ -565,7 +565,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
       }
@@ -576,20 +576,22 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "title": "L’alternative préférée à la cire et au laser",
+        "content": "<p>Nos client(e)s abandonnent l'épilation douloureuse et les visites coûteuses en salon pour notre kit d'épilation instantanée !</p>",
+        "before_image": "shopify://shop_images/Screenshot_2024-10-24_at_16.33.26.png",
+        "after_image": "shopify://shop_images/Screenshot_2024-10-24_at_16.34.29.png",
         "expand_image": false,
-        "text_position": "start",
+        "text_position": "center",
         "before_after_text_position": "top",
-        "before_text": "Before",
-        "after_text": "After",
+        "before_text": "Avant",
+        "after_text": "Après",
         "drag_initial_position": 50,
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "before_text_color": "#ffffff",
         "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
+        "drag_cursor_background": "#febbe7",
         "drag_cursor_color": "#000000"
       }
     },
