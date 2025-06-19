@@ -339,10 +339,6 @@
     "featured_product_LkNRbJ": {
       "type": "featured-product",
       "blocks": {
-        "vendor_hKU6yp": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title_UKikFR": {
           "type": "title",
           "settings": {
@@ -406,7 +402,6 @@
         }
       },
       "block_order": [
-        "vendor_hKU6yp",
         "title_UKikFR",
         "badges_3D7mi4",
         "price_TXdJQM",
@@ -421,7 +416,7 @@
       "name": "Featured product",
       "settings": {
         "full_width": true,
-        "product": "",
+        "product": "skinerase-kit-epilation-minute",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
