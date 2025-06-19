@@ -294,10 +294,11 @@
         "item_UULGcj": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/Design sans titre (21).mp4",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -306,22 +307,11 @@
         "item_tHjfhj": {
           "type": "item",
           "settings": {
+            "video": "shopify://files/videos/Design sans titre (20).mp4",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_fVtxUj": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -330,8 +320,7 @@
       },
       "block_order": [
         "item_UULGcj",
-        "item_tHjfhj",
-        "item_fVtxUj"
+        "item_tHjfhj"
       ],
       "name": "Multi-column",
       "settings": {
