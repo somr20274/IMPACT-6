@@ -438,8 +438,8 @@
         "tab_YUjXx3": {
           "type": "tab",
           "settings": {
-            "title": "Tab 1",
-            "content": "<p>Use this text to share information about your brand with your customers.</p>",
+            "title": "Contenu du Kit",
+            "content": "<p>Chaque <strong>Kit d'Épilation Instantanée</strong> comprend :</p><p>- 1x Crème Épilatoire Douce</p><p>- 1x Gel Crème Hydratant</p>",
             "page": ""
           }
         },
@@ -469,8 +469,8 @@
       "settings": {
         "full_width": true,
         "content_size": "medium",
-        "subheading": "Subheading",
-        "title": "Heading",
+        "subheading": "",
+        "title": "",
         "first_tab_open": false,
         "background": "",
         "background_gradient": "",
