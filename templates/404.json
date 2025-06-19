@@ -225,12 +225,54 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_gKarjc": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Temoignage_4.png",
+            "column_size": "1.5",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_PWNahE": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Temoignage_5.png",
+            "column_size": "1.5",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_UzdkaK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Temoignage_6.png",
+            "column_size": "1.5",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_aAqh6y",
         "item_Ek4Tgm",
-        "item_TKHnQd"
+        "item_TKHnQd",
+        "item_gKarjc",
+        "item_PWNahE",
+        "item_UzdkaK"
       ],
       "name": "Multi-column",
       "settings": {
