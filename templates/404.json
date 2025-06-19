@@ -595,6 +595,22 @@
         "drag_cursor_color": "#000000"
       }
     },
+    "scrolling_text_dweFEL": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Soldes 2025 - Quantité limitée",
+        "text_size": "small",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#febbe7",
+        "background_gradient": "",
+        "text_color": "#ffffff",
+        "text_gradient": ""
+      }
+    },
     "rich_text_YPtBph": {
       "type": "rich-text",
       "blocks": {
@@ -735,6 +751,7 @@
     "slideshow_q8V9tc",
     "rich_text_kWp7HK",
     "before_after_image_ccdx9V",
+    "scrolling_text_dweFEL",
     "rich_text_YPtBph",
     "video_eM6pdm",
     "faq_gMfhti"
