@@ -455,7 +455,7 @@
           "type": "tab",
           "settings": {
             "title": "Livraison",
-            "content": "<p>Vous avez passé commande ? Voici ce qui vous attend :</p><p></p>",
+            "content": "<p>Vous avez passé commande ? Voici ce qui vous attend :</p><p>- Dès validation, notre équipe prépare soigneusement votre colis.</p><p><br/>- Le traitement de votre commande peut prendre jusqu’à <strong>72 heures</strong>.</p><p>- Une fois expédiée, vous recevrez un e-mail de confirmation avec un <strong>numéro de suivi</strong> personnalisé.</p><p>- Il vous suffira de cliquer sur le lien pour suivre votre commande à chaque étape de son trajet.</p>",
             "page": ""
           }
         }
