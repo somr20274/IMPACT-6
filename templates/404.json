@@ -712,22 +712,46 @@
         "item_FWBPBF": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "La crème est-elle vegan et cruelty-free ?",
+            "content": "<p>Absolument ! Notre kit d'épilation instantanée est formulé pour être sûr et efficace pour tous les utilisateurs. Nous nous engageons à créer des produits non seulement bénéfiques pour vos lèvres, mais aussi respectueux des animaux. Chaque kit est soigneusement conçu pour vous garantir le meilleur produit possible, tout en respectant nos valeurs de non-cruauté.</p>"
           }
         },
         "item_p8Wmf4": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "La crème provoquera-t-elle des brûlures ou des irritations ?",
+            "content": "<p>Non, elle est spécialement conçue pour être douce pour le visage et convient aux peaux sensibles. Contrairement à d'autres crèmes dépilatoires qui peuvent contenir des produits chimiques agressifs, ce produit est formulé pour minimiser les irritations et laisser la peau lisse et douce.</p>"
+          }
+        },
+        "item_pwRVqx": {
+          "type": "item",
+          "settings": {
+            "title": "Pourquoi cette crème est-elle différente des crèmes dépilatoires classiques ?",
+            "content": "<p>Spécialement formulée pour les femmes souffrant de poils du visage liés au SOPK, elle cible les poils plus épais et plus épais que les crèmes traditionnelles ne parviennent pas à éliminer efficacement. De plus, elle est conçue pour être douce pour les peaux sensibles, réduisant ainsi les irritations et les rougeurs.</p>"
+          }
+        },
+        "item_WVbtJj": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce efficace contre les poils incarnés ?",
+            "content": "<p>Oui, la crème aide à réduire l'apparition des poils incarnés en les dissolvant plutôt qu'en les coupant ou en les arrachant. Vous retrouverez une peau plus lisse, sans bosses ni rougeurs.<br/><br/>Nous recommandons d'utiliser la crème en complément de notre sérum réparateur pour poils incarnés.</p>"
+          }
+        },
+        "item_zRxewq": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que ça sent comme les autres crèmes dépilatoires ?",
+            "content": "<p>Non ! Contrairement à d'autres crèmes qui ont une odeur forte et désagréable, cette crème est formulée avec un parfum doux et frais pour une expérience agréable.</p>"
           }
         }
       },
       "block_order": [
         "item_N7qBUB",
         "item_FWBPBF",
-        "item_p8Wmf4"
+        "item_p8Wmf4",
+        "item_pwRVqx",
+        "item_WVbtJj",
+        "item_zRxewq"
       ],
       "name": "FAQ",
       "settings": {
