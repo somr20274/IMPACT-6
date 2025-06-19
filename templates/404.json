@@ -361,10 +361,6 @@
             "show_empty": false
           }
         },
-        "separator_RGrUei": {
-          "type": "separator",
-          "settings": {}
-        },
         "description_LaJ6EB": {
           "type": "description",
           "settings": {
@@ -412,7 +408,6 @@
         "badges_3D7mi4",
         "price_TXdJQM",
         "rating_9TFxk6",
-        "separator_RGrUei",
         "description_LaJ6EB",
         "kaching_bundles_app_block_eibMPN",
         "variant_picker_NgBVz8",
