@@ -595,6 +595,48 @@
         "drag_cursor_color": "#000000"
       }
     },
+    "slideshow_eRpLtF": {
+      "type": "slideshow",
+      "blocks": {
+        "image_8BfBii": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/f5d40a62-f5b9-4bff-86a4-4b5820a675d9.png",
+            "mobile_image": "shopify://shop_images/f5d40a62-f5b9-4bff-86a4-4b5820a675d9.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_8BfBii"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": ""
+      }
+    },
     "multi_column_At7P4r": {
       "type": "multi-column",
       "blocks": {
@@ -657,88 +699,6 @@
         "text_color": ""
       }
     },
-    "slideshow_eRpLtF": {
-      "type": "slideshow",
-      "blocks": {
-        "image_8BfBii": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/f5d40a62-f5b9-4bff-86a4-4b5820a675d9.png",
-            "mobile_image": "shopify://shop_images/f5d40a62-f5b9-4bff-86a4-4b5820a675d9.png",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_8BfBii"
-      ],
-      "name": "Slideshow",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": true,
-        "image_size": "auto",
-        "controls_type": "dots",
-        "transition_type": "fade_with_text",
-        "autoplay": false,
-        "cycle_speed": 6,
-        "background": "#f2f2f2",
-        "background_gradient": ""
-      }
-    },
-    "rich_text_YPtBph": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_wjCLQ9": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_jFQdme": {
-          "type": "heading",
-          "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_TcQBjW": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_wjCLQ9",
-        "heading_jFQdme",
-        "richtext_TcQBjW"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "faq_gMfhti": {
       "type": "faq",
       "blocks": {
@@ -774,10 +734,10 @@
         "full_width": true,
         "subheading": "",
         "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "Notre support client est disponible du lundi au vendredi : de 8h à 20h30.",
+        "answer_time": "Temps de réponse moyen : 24h",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
@@ -808,9 +768,8 @@
     "slideshow_q8V9tc",
     "rich_text_kWp7HK",
     "before_after_image_ccdx9V",
-    "multi_column_At7P4r",
     "slideshow_eRpLtF",
-    "rich_text_YPtBph",
+    "multi_column_At7P4r",
     "faq_gMfhti"
   ]
 }
