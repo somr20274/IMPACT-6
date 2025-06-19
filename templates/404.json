@@ -543,7 +543,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
@@ -595,6 +595,67 @@
         "drag_cursor_color": "#000000"
       }
     },
+    "multi_column_At7P4r": {
+      "type": "multi-column",
+      "blocks": {
+        "item_tdqfYz": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2025-05-26_at_12.53.45.png",
+            "column_size": "3",
+            "title": "Une vraie bouée de sauvetage !",
+            "heading_tag": "h4",
+            "content": "<p>J'ai déjà utilisé ce produit et j'ai toujours été ravie des résultats. Il est particulièrement adapté aux peaux sensibles, car il ne laisse ni rougeurs ni inflammations comme beaucoup d'autres produits de beauté de ce type. Je le recommande vivement !<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_PM9Ary": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5596.png",
+            "column_size": "3",
+            "title": "C'était un succès !",
+            "heading_tag": "h4",
+            "content": "<p>J'ai tout essayé, mais j'avoue avoir une horreur de poils sur le visage, et malgré tous mes efforts, rien n'y fait. Je peux maintenant me maquiller en toute confiance grâce à cette crème dépilatoire.<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_FVD6qb": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_tdqfYz",
+        "item_PM9Ary",
+        "item_FVD6qb"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Approuvé par de nombreuses filles",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "slideshow_eRpLtF": {
       "type": "slideshow",
       "blocks": {
@@ -633,7 +694,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
@@ -675,37 +736,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "video_eM6pdm": {
-      "type": "video",
-      "blocks": {
-        "play_QP3Wyx": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_TgtQH7": {
-          "type": "heading",
-          "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "play_QP3Wyx",
-        "heading_TgtQH7"
-      ],
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": false,
-        "video_size": "auto",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
       }
     },
     "faq_gMfhti": {
@@ -777,9 +807,9 @@
     "slideshow_q8V9tc",
     "rich_text_kWp7HK",
     "before_after_image_ccdx9V",
+    "multi_column_At7P4r",
     "slideshow_eRpLtF",
     "rich_text_YPtBph",
-    "video_eM6pdm",
     "faq_gMfhti"
   ]
 }
