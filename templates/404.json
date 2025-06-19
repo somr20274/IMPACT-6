@@ -454,8 +454,8 @@
         "tab_kcyjjp": {
           "type": "tab",
           "settings": {
-            "title": "Tab 3",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "title": "Livraison",
+            "content": "<p>Vous avez passé commande ? Voici ce qui vous attend :</p><p></p>",
             "page": ""
           }
         }
