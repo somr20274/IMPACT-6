@@ -9,11 +9,6 @@
  */
 {
   "sections": {
-    "main": {
-      "type": "main-not-found",
-      "disabled": true,
-      "settings": {}
-    },
     "slideshow_QVJxmk": {
       "type": "slideshow",
       "blocks": {
@@ -55,6 +50,11 @@
         "background": "#f2f2f2",
         "background_gradient": ""
       }
+    },
+    "main": {
+      "type": "main-not-found",
+      "disabled": true,
+      "settings": {}
     },
     "rich_text_9VFPTw": {
       "type": "rich-text",
@@ -787,8 +787,8 @@
     }
   },
   "order": [
-    "main",
     "slideshow_QVJxmk",
+    "main",
     "rich_text_9VFPTw",
     "logo_list_rYKyUL",
     "rich_text_YTPGMA",
