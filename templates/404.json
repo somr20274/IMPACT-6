@@ -52,7 +52,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#f2f2f2",
         "background_gradient": ""
       }
     },
@@ -88,6 +88,7 @@
         "logo_kcpdjN": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/telecharger_5.png",
             "logo_width": 120,
             "link": ""
           }
@@ -95,6 +96,7 @@
         "logo_4NTKfA": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/telecharger_6.png",
             "logo_width": 120,
             "link": ""
           }
@@ -102,6 +104,7 @@
         "logo_9hM7Wi": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/telecharger_3.png",
             "logo_width": 120,
             "link": ""
           }
@@ -109,6 +112,7 @@
         "logo_7n6eJQ": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/telecharger_4.png",
             "logo_width": 120,
             "link": ""
           }
@@ -140,39 +144,25 @@
     "rich_text_YTPGMA": {
       "type": "rich-text",
       "blocks": {
-        "subheading_eKd6nh": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_Dq7rKm": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
+            "text": "Pourquoi nous choisir ?",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
-          }
-        },
-        "richtext_E9WkXd": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
       "block_order": [
-        "subheading_eKd6nh",
-        "heading_Dq7rKm",
-        "richtext_E9WkXd"
+        "heading_Dq7rKm"
       ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
       }
