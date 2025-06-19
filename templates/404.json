@@ -345,6 +345,12 @@
             "heading_tag": "h2"
           }
         },
+        "liquid_kBLme4": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<title>Trustpilot Stars</title>\n</head>\n<body>\n    <a target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; display: flex; align-items: center;\">\n        <span style=\"font-size: 15px; font-weight: bold; color: #000;\">4.7</span>\n        <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/trustpilot_5_stars.svg?v=1721578152\" alt=\"Trustpilot 5 stars\" style=\"margin: 0 8px; width: 80px; height: auto;\">\n        <span style=\"font-size: 15px; color: #555;\">(278 avis)</span>\n    </a>"
+          }
+        },
         "text_WeLRRi": {
           "type": "text",
           "settings": {
@@ -405,6 +411,7 @@
       },
       "block_order": [
         "title_UKikFR",
+        "liquid_kBLme4",
         "text_WeLRRi",
         "badges_3D7mi4",
         "rating_9TFxk6",
