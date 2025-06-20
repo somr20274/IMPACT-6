@@ -511,6 +511,89 @@
         "heading_gradient": ""
       }
     },
+    "impact_text_cPkXjV": {
+      "type": "impact-text",
+      "blocks": {
+        "item_THFhyN": {
+          "type": "item",
+          "settings": {
+            "title": "92%",
+            "subheading": "Qualité de sommeil",
+            "content": "<p>92% de nos clients affirment avoir une <strong>meilleure qualité de sommeil depuis l'utilisation des patchs de sommeil</strong></p>",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        },
+        "item_fgwQjj": {
+          "type": "item",
+          "settings": {
+            "title": "90%",
+            "subheading": "Réduction du stress",
+            "content": "<p>90% de nos clients affirment ressentir <strong>moins de stress au moment de dormir</strong></p>",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_THFhyN",
+        "item_fgwQjj"
+      ],
+      "name": "Impact text",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": false,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "image_with_text_overlay_LaCDqg": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/7784b11d-ee85-428c-a344-7aa71f7e51fe.png",
+        "mobile_image": "shopify://shop_images/7784b11d-ee85-428c-a344-7aa71f7e51fe.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_MWp7BR": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/section-9-1.jpg",
+        "mobile_image": "shopify://shop_images/section-9-1.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "multi_column_F8dYGp": {
       "type": "multi-column",
       "blocks": {
@@ -561,10 +644,10 @@
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "<h2><strong>Comment fonctionne nos patchs</strong></h2><h3>Voici ce qui rend votre nouvelle routine de sommeil de qualité possible</h3><p>Le secret de l’efficacité de Wellamoon réside dans des <strong>ingrédients actifs à action rapide et fiables</strong>, qui sont <strong>absorbés lentement par votre corps</strong>, contrairement à une pilule. Cela favorise un <strong>sommeil de qualité tout au long de la nuit</strong>, sans provoquer de somnolence au réveil.</p><h3>1. <strong>Couche de contact avec la peau</strong></h3><p>La couche de contact du patch contient <strong>un adhésif sûr pour la peau</strong>, que vous pouvez utiliser confortablement et en toute sécurité sur n’importe quelle zone du corps. Elle est suffisamment résistante pour rester en place toute la nuit.</p><h3>2. <strong>Couche d’ingrédients actifs</strong></h3><p>Tous les ingrédients actifs sont contenus dans la couche intermédiaire. <strong>Une fois le film protecteur retiré</strong>, les composants actifs <strong>se diffusent progressivement dans votre corps tout au long de la nuit</strong>.</p><h3>3. <strong>Couche de support</strong></h3><p>Le dos du patch est recouvert d’une <strong>mousse douce</strong>, qui <strong>maintient le patch en place</strong> tout en <strong>dirigeant les ingrédients actifs vers la peau</strong> pour une absorption optimale.</p>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -729,6 +812,9 @@
     "multi_column_R8EKzJ",
     "featured_product_LkNRbJ",
     "tabs_6AYY3Q",
+    "impact_text_cPkXjV",
+    "image_with_text_overlay_LaCDqg",
+    "image_with_text_overlay_MWp7BR",
     "multi_column_F8dYGp",
     "before_after_image_ccdx9V",
     "rich_text_YPtBph",
