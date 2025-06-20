@@ -9,14 +9,19 @@
  */
 {
   "sections": {
+    "main": {
+      "type": "main-not-found",
+      "disabled": true,
+      "settings": {}
+    },
     "slideshow_QVJxmk": {
       "type": "slideshow",
       "blocks": {
         "image_CHxwTg": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/2_6.jpg",
-            "mobile_image": "shopify://shop_images/L_epilation_rapide_et_douce_pour_une_peau_lisse_en_quelques_minutes_1080_x_1080_px_2.png",
+            "image": "shopify://shop_images/4ed586c7-443e-4783-b922-06f6ba54dc8a.png",
+            "mobile_image": "shopify://shop_images/4ed586c7-443e-4783-b922-06f6ba54dc8a.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -50,11 +55,6 @@
         "background": "#f2f2f2",
         "background_gradient": ""
       }
-    },
-    "main": {
-      "type": "main-not-found",
-      "disabled": true,
-      "settings": {}
     },
     "rich_text_9VFPTw": {
       "type": "rich-text",
@@ -175,8 +175,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/L_epilation_rapide_et_douce_pour_une_peau_lisse_en_quelques_minutes_1080_x_1080_px_1300_x_1500_px_1080_x_1080_px.png",
-        "mobile_image": "shopify://shop_images/L_epilation_rapide_et_douce_pour_une_peau_lisse_en_quelques_minutes_1080_x_1080_px_1300_x_1500_px_1080_x_1080_px.png",
+        "image": "shopify://shop_images/b1ca49ab-2ca7-4cd3-85c0-95ca111a950d.png",
+        "mobile_image": "shopify://shop_images/b1ca49ab-2ca7-4cd3-85c0-95ca111a950d.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -190,7 +190,6 @@
         "item_PWNahE": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Temoignage_5.png",
             "column_size": "1.5",
             "title": "",
             "heading_tag": "h4",
@@ -203,7 +202,6 @@
         "item_UzdkaK": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Temoignage_6.png",
             "column_size": "1.5",
             "title": "",
             "heading_tag": "h4",
@@ -216,7 +214,6 @@
         "item_aAqh6y": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Temoignage_1.png",
             "column_size": "1.5",
             "title": "",
             "heading_tag": "h4",
@@ -229,7 +226,6 @@
         "item_Ek4Tgm": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Temoignage_3.png",
             "column_size": "1.5",
             "title": "",
             "heading_tag": "h4",
@@ -242,7 +238,6 @@
         "item_TKHnQd": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Temoignage_2.png",
             "column_size": "3",
             "title": "",
             "heading_tag": "h4",
@@ -255,7 +250,6 @@
         "item_gKarjc": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Temoignage_4.png",
             "column_size": "1.5",
             "title": "",
             "heading_tag": "h4",
@@ -294,11 +288,10 @@
         "item_UULGcj": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/Design sans titre (21).mp4",
             "column_size": "3",
-            "title": "",
+            "title": "Column title",
             "heading_tag": "h4",
-            "content": "",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -307,11 +300,22 @@
         "item_tHjfhj": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/Design sans titre (20).mp4",
             "column_size": "3",
-            "title": "",
+            "title": "Column title",
             "heading_tag": "h4",
-            "content": "",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_fVtxUj": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -320,7 +324,8 @@
       },
       "block_order": [
         "item_UULGcj",
-        "item_tHjfhj"
+        "item_tHjfhj",
+        "item_fVtxUj"
       ],
       "name": "Multi-column",
       "settings": {
@@ -339,27 +344,25 @@
     "featured_product_LkNRbJ": {
       "type": "featured-product",
       "blocks": {
+        "vendor_hKU6yp": {
+          "type": "vendor",
+          "settings": {}
+        },
         "title_UKikFR": {
           "type": "title",
           "settings": {
             "heading_tag": "h2"
           }
         },
-        "liquid_kBLme4": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<title>Trustpilot Stars</title>\n</head>\n<body>\n    <a target=\"_blank\" rel=\"noopener noreferrer\" style=\"text-decoration: none; display: flex; align-items: center;\">\n        <span style=\"font-size: 15px; font-weight: bold; color: #000;\">4.7</span>\n        <img src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/trustpilot_5_stars.svg?v=1721578152\" alt=\"Trustpilot 5 stars\" style=\"margin: 0 8px; width: 80px; height: auto;\">\n        <span style=\"font-size: 15px; color: #555;\">(278 avis)</span>\n    </a>"
-          }
-        },
-        "text_WeLRRi": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>🌸 Application facile et indolore </strong></p><p><strong>💖 Pour tous les types de peau </strong></p><p><strong>⏳ Douceur longue durée</strong></p>"
-          }
-        },
         "badges_3D7mi4": {
           "type": "badges",
           "settings": {}
+        },
+        "price_TXdJQM": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
         },
         "rating_9TFxk6": {
           "type": "rating",
@@ -367,16 +370,14 @@
             "show_empty": false
           }
         },
+        "separator_RGrUei": {
+          "type": "separator",
+          "settings": {}
+        },
         "description_LaJ6EB": {
           "type": "description",
           "settings": {
             "collapse_content": false
-          }
-        },
-        "kaching_bundles_app_block_eibMPN": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
           }
         },
         "variant_picker_NgBVz8": {
@@ -396,7 +397,7 @@
         "buy_buttons_aN7rCH": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": false,
+            "show_payment_button": true,
             "show_gift_card_recipient": true,
             "atc_button_background": "",
             "atc_button_text_color": "",
@@ -410,13 +411,13 @@
         }
       },
       "block_order": [
+        "vendor_hKU6yp",
         "title_UKikFR",
-        "liquid_kBLme4",
-        "text_WeLRRi",
         "badges_3D7mi4",
+        "price_TXdJQM",
         "rating_9TFxk6",
+        "separator_RGrUei",
         "description_LaJ6EB",
-        "kaching_bundles_app_block_eibMPN",
         "variant_picker_NgBVz8",
         "quantity_selector_VegFLT",
         "buy_buttons_aN7rCH",
@@ -425,7 +426,7 @@
       "name": "Featured product",
       "settings": {
         "full_width": true,
-        "product": "skinerase-kit-epilation-minute",
+        "product": "",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
@@ -434,7 +435,7 @@
         "enable_video_looping": false,
         "enable_image_zoom": true,
         "max_image_zoom_level": 3,
-        "background": "#ffffff",
+        "background": "",
         "background_gradient": "",
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
@@ -447,24 +448,24 @@
         "tab_YUjXx3": {
           "type": "tab",
           "settings": {
-            "title": "Contenu du Kit",
-            "content": "<p>Chaque <strong>Kit d'Épilation Instantanée</strong> comprend :</p><p>- 1x Crème Épilatoire Douce</p><p>- 1x Gel Crème Hydratant</p>",
+            "title": "Tab 1",
+            "content": "<p>Use this text to share information about your brand with your customers.</p>",
             "page": ""
           }
         },
         "tab_6NnAeL": {
           "type": "tab",
           "settings": {
-            "title": "Détails & Bénéfices",
-            "content": "<p><strong>Adopté par plus de 10 000 femmes confiantes à travers le monde</strong><br/></p><h3>✨ Épilation facile et rapide</h3><p>La <strong>crème dépilatoire instantanée</strong> offre une peau lisse en quelques minutes grâce à une formule facile à appliquer, sans dégâts. Il suffit d’appliquer, d’attendre, puis de retirer délicatement pour révéler une peau douce, sans rasoir ni cire.</p><h3>✨ Résultats visibles & longue durée</h3><p>Notre formule avancée élimine même les poils les plus courts et les plus tenaces. Le gel hydratant inclus nourrit intensément votre peau, la laissant douce et lumineuse bien après l’épilation.</p><h3>✨ Sûr et recommandé par des dermatologues</h3><p>Formulé à base d’ingrédients sûrs et de haute qualité, ce kit permet une épilation efficace <strong>sans irritation ni produits agressifs</strong>. Recommandé par des dermatologues pour obtenir une peau douce, nette, et éclatante !</p>",
+            "title": "Tab 2",
+            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
             "page": ""
           }
         },
         "tab_kcyjjp": {
           "type": "tab",
           "settings": {
-            "title": "Livraison",
-            "content": "<p>Vous avez passé commande ? Voici ce qui vous attend :</p><p>- Dès validation, notre équipe prépare soigneusement votre colis.</p><p><br/>- Le traitement de votre commande peut prendre jusqu’à <strong>72 heures</strong>.</p><p>- Une fois expédiée, vous recevrez un e-mail de confirmation avec un <strong>numéro de suivi</strong> personnalisé.</p><p>- Il vous suffira de cliquer sur le lien pour suivre votre commande à chaque étape de son trajet.</p>",
+            "title": "Tab 3",
+            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
             "page": ""
           }
         }
@@ -478,103 +479,71 @@
       "settings": {
         "full_width": true,
         "content_size": "medium",
-        "subheading": "",
-        "title": "",
+        "subheading": "Subheading",
+        "title": "Heading",
         "first_tab_open": false,
-        "background": "#ffffff",
+        "background": "",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
       }
     },
-    "rich_text_JYATkW": {
-      "type": "rich-text",
+    "multi_column_F8dYGp": {
+      "type": "multi-column",
       "blocks": {
-        "heading_rx49tn": {
-          "type": "heading",
+        "item_ccm9mp": {
+          "type": "item",
           "settings": {
-            "text": "Peau lisse instantanément avec des résultats durables et permanents !",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_nhTWxQ": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_d9rkPd": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         }
       },
       "block_order": [
-        "heading_rx49tn"
+        "item_ccm9mp",
+        "item_nhTWxQ",
+        "item_d9rkPd"
       ],
-      "name": "Rich text",
+      "name": "Multi-column",
       "settings": {
         "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "#1a1a1a"
-      }
-    },
-    "slideshow_q8V9tc": {
-      "type": "slideshow",
-      "blocks": {
-        "image_xtfAiB": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Screenshot_2024-11-07_at_00.36.36.png",
-            "mobile_image": "shopify://shop_images/Screenshot_2024-11-07_at_00.36.36.png",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_xtfAiB"
-      ],
-      "name": "Slideshow",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": true,
-        "image_size": "auto",
-        "controls_type": "dots",
-        "transition_type": "fade_with_text",
-        "autoplay": false,
-        "cycle_speed": 6,
-        "background": "#f2f2f2",
-        "background_gradient": ""
-      }
-    },
-    "rich_text_kWp7HK": {
-      "type": "rich-text",
-      "blocks": {
-        "richtext_gVRt98": {
-          "type": "richtext",
-          "settings": {
-            "content": "<h2><strong>Comment ça fonctionne ?</strong></h2><p><br/>1. <strong>Appliquer la crème dépilatoire :</strong><br/>Prenez une quantité généreuse de crème et répartissez-la uniformément sur la zone à traiter, en veillant à bien couvrir tous les poils. Pour un résultat optimal, appliquez une épaisseur d’environ 2 mm.<br/><br/>2. <strong>Laisser agir et retirer :</strong><br/>Laisser agir la crème 5 à 10 minutes. Ensuite, essuyer délicatement la crème à l’aide d’une serviette humide dans le sens inverse de la pousse du poil. Rincer abondamment à l’eau claire pour éliminer tout résidu. Sécher la peau en tapotant avec la spatule.<br/><br/>3. <strong>Hydrater et apaiser :</strong><br/>Appliquer une couche uniforme de crème hydratante sur la zone traitée. Masser délicatement jusqu’à absorption complète, laissant la peau douce et nourrie.<br/></p>"
-          }
-        }
-      },
-      "block_order": [
-        "richtext_gVRt98"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "#ffffff",
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "About",
+        "title": "Featured content",
+        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "background": "",
         "background_gradient": "",
         "text_color": ""
       }
@@ -585,127 +554,92 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "L’alternative préférée à la cire et au laser",
-        "content": "<p>Nos client(e)s abandonnent l'épilation douloureuse et les visites coûteuses en salon pour notre kit d'épilation instantanée !</p>",
-        "before_image": "shopify://shop_images/Screenshot_2024-10-24_at_16.33.26.png",
-        "after_image": "shopify://shop_images/Screenshot_2024-10-24_at_16.34.29.png",
+        "title": "Before/after",
+        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
         "expand_image": false,
-        "text_position": "center",
+        "text_position": "start",
         "before_after_text_position": "top",
-        "before_text": "Avant",
-        "after_text": "Après",
+        "before_text": "Before",
+        "after_text": "After",
         "drag_initial_position": 50,
-        "background": "#ffffff",
+        "background": "",
         "background_gradient": "",
         "text_color": "",
         "before_text_color": "#ffffff",
         "after_text_color": "#ffffff",
-        "drag_cursor_background": "#febbe7",
+        "drag_cursor_background": "#ffffff",
         "drag_cursor_color": "#000000"
       }
     },
-    "slideshow_eRpLtF": {
-      "type": "slideshow",
+    "rich_text_YPtBph": {
+      "type": "rich-text",
       "blocks": {
-        "image_8BfBii": {
-          "type": "image",
+        "subheading_wjCLQ9": {
+          "type": "subheading",
           "settings": {
-            "image": "shopify://shop_images/f5d40a62-f5b9-4bff-86a4-4b5820a675d9.png",
-            "mobile_image": "shopify://shop_images/f5d40a62-f5b9-4bff-86a4-4b5820a675d9.png",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
+            "text": "Subheading"
+          }
+        },
+        "heading_jFQdme": {
+          "type": "heading",
+          "settings": {
+            "text": "Heading",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_TcQBjW": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
       "block_order": [
-        "image_8BfBii"
+        "subheading_wjCLQ9",
+        "heading_jFQdme",
+        "richtext_TcQBjW"
       ],
-      "name": "Slideshow",
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "allow_transparent_header": true,
-        "image_size": "auto",
-        "controls_type": "dots",
-        "transition_type": "fade_with_text",
-        "autoplay": false,
-        "cycle_speed": 6,
-        "background": "#f2f2f2",
-        "background_gradient": ""
-      }
-    },
-    "multi_column_At7P4r": {
-      "type": "multi-column",
-      "blocks": {
-        "item_tdqfYz": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Screenshot_2025-05-26_at_12.53.45.png",
-            "column_size": "3",
-            "title": "Une vraie bouée de sauvetage !",
-            "heading_tag": "h4",
-            "content": "<p>J'ai déjà utilisé ce produit et j'ai toujours été ravie des résultats. Il est particulièrement adapté aux peaux sensibles, car il ne laisse ni rougeurs ni inflammations comme beaucoup d'autres produits de beauté de ce type. Je le recommande vivement !<br/><br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_PM9Ary": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Screenshot_2025-05-26_at_13.00.56.png",
-            "column_size": "3",
-            "title": "C'était un succès !",
-            "heading_tag": "h4",
-            "content": "<p>J'ai tout essayé, mais j'avoue avoir une horreur de poils sur le visage, et malgré tous mes efforts, rien n'y fait. Je peux maintenant me maquiller en toute confiance grâce à cette crème dépilatoire.<br/><br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_FVD6qb": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Photo_for_Aurlux_1.png",
-            "column_size": "3",
-            "title": "Mon nouveau chouchou",
-            "heading_tag": "h4",
-            "content": "<p>J'ai toujours eu du mal à trouver la solution d'épilation idéale. L'épilation à la cire est très douloureuse, et le rasage laisse des coupures et une peau sèche et irritée. La crème élimine tous mes poils indésirables en quelques minutes, sans douleur ni saleté. De plus, la crème hydratante laisse ma peau douce et nourrie.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_tdqfYz",
-        "item_PM9Ary",
-        "item_FVD6qb"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Approuvé par de nombreuses femmes",
-        "content": "",
+        "content_width": "small",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "video_eM6pdm": {
+      "type": "video",
+      "blocks": {
+        "play_QP3Wyx": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_TgtQH7": {
+          "type": "heading",
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_QP3Wyx",
+        "heading_TgtQH7"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     },
     "faq_gMfhti": {
@@ -714,63 +648,39 @@
         "item_N7qBUB": {
           "type": "item",
           "settings": {
-            "title": "Quels sont les ingrédients ?",
-            "content": "<p>Nous avons volontairement exclu les produits chimiques agressifs et les irritants pour créer une formule suffisamment douce, même pour les peaux les plus sensibles.</p><h3><strong>Le processus d’épilation :</strong></h3><p>La crème agit en <strong>décomposant la kératine</strong>, une protéine qui donne à vos poils leur structure et leur solidité.<br/><br/>Notre formule dissout délicatement cette kératine, fragilisant le poil, qui peut alors être <strong>retiré facilement</strong>.<br/><br/>Résultat : une peau lisse, sans poils, <strong>sans douleur ni rasage</strong> ni cire agressive.</p><h3><strong>Liste complète des ingrédients :</strong></h3><ul><li> : ingrédient actif qui décompose la structure protéique du poil, facilitant son élimination sans abîmer la peau.<br/></li><li> : base de la crème, elle permet de mélanger les autres ingrédients pour une texture lisse et facile à appliquer.<br/></li><li> : agents hydratants puissants qui aident à maintenir la douceur et l’hydratation de la peau.<br/></li><li> : facilite l’étalement de la crème et optimise l’action des ingrédients actifs.<br/></li><li> : donnent à la crème sa texture onctueuse et équilibrent le pH pour une action efficace sur les poils.<br/></li><li> : conservateurs doux qui assurent la stabilité du produit et contribuent à ramollir le poil.<br/></li><li> : hydrate et apaise la peau après l’épilation, la laissant douce et confortable.<br/></li><li> : apaise les rougeurs et calme la peau durant l’utilisation.<br/></li><li> : connus pour leurs propriétés apaisantes naturelles, ils procurent une sensation de fraîcheur et de confort.<br/></li><li> : conservateur doux qui maintient la qualité et la durée de vie du produit.<br/></li><li> : adoucissent et conditionnent la peau tout en améliorant la texture de la crème</li></ul>"
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
           }
         },
         "item_FWBPBF": {
           "type": "item",
           "settings": {
-            "title": "La crème est-elle vegan et cruelty-free ?",
-            "content": "<p>Absolument ! Notre kit d'épilation instantanée est formulé pour être sûr et efficace pour tous les utilisateurs. Nous nous engageons à créer des produits non seulement bénéfiques pour vos lèvres, mais aussi respectueux des animaux. Chaque kit est soigneusement conçu pour vous garantir le meilleur produit possible, tout en respectant nos valeurs de non-cruauté.</p>"
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
           }
         },
         "item_p8Wmf4": {
           "type": "item",
           "settings": {
-            "title": "La crème provoquera-t-elle des brûlures ou des irritations ?",
-            "content": "<p>Non, elle est spécialement conçue pour être douce pour le visage et convient aux peaux sensibles. Contrairement à d'autres crèmes dépilatoires qui peuvent contenir des produits chimiques agressifs, ce produit est formulé pour minimiser les irritations et laisser la peau lisse et douce.</p>"
-          }
-        },
-        "item_pwRVqx": {
-          "type": "item",
-          "settings": {
-            "title": "Pourquoi cette crème est-elle différente des crèmes dépilatoires classiques ?",
-            "content": "<p>Spécialement formulée pour les femmes souffrant de poils du visage liés au SOPK, elle cible les poils plus épais et plus épais que les crèmes traditionnelles ne parviennent pas à éliminer efficacement. De plus, elle est conçue pour être douce pour les peaux sensibles, réduisant ainsi les irritations et les rougeurs.</p>"
-          }
-        },
-        "item_WVbtJj": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce efficace contre les poils incarnés ?",
-            "content": "<p>Oui, la crème aide à réduire l'apparition des poils incarnés en les dissolvant plutôt qu'en les coupant ou en les arrachant. Vous retrouverez une peau plus lisse, sans bosses ni rougeurs.<br/><br/>Nous recommandons d'utiliser la crème en complément de notre sérum réparateur pour poils incarnés.</p>"
-          }
-        },
-        "item_zRxewq": {
-          "type": "item",
-          "settings": {
-            "title": "Est-ce que ça sent comme les autres crèmes dépilatoires ?",
-            "content": "<p>Non ! Contrairement à d'autres crèmes qui ont une odeur forte et désagréable, cette crème est formulée avec un parfum doux et frais pour une expérience agréable.</p>"
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
           }
         }
       },
       "block_order": [
         "item_N7qBUB",
         "item_FWBPBF",
-        "item_p8Wmf4",
-        "item_pwRVqx",
-        "item_WVbtJj",
-        "item_zRxewq"
+        "item_p8Wmf4"
       ],
       "name": "FAQ",
       "settings": {
         "full_width": true,
         "subheading": "",
         "title": "FAQ",
-        "content": "",
+        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
         "team_avatar_width": 160,
-        "support_hours": "Notre support client est disponible du lundi au vendredi : de 8h à 20h30.",
-        "answer_time": "Temps de réponse moyen : 24h",
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
@@ -787,8 +697,8 @@
     }
   },
   "order": [
-    "slideshow_QVJxmk",
     "main",
+    "slideshow_QVJxmk",
     "rich_text_9VFPTw",
     "logo_list_rYKyUL",
     "rich_text_YTPGMA",
@@ -797,12 +707,10 @@
     "multi_column_R8EKzJ",
     "featured_product_LkNRbJ",
     "tabs_6AYY3Q",
-    "rich_text_JYATkW",
-    "slideshow_q8V9tc",
-    "rich_text_kWp7HK",
+    "multi_column_F8dYGp",
     "before_after_image_ccdx9V",
-    "slideshow_eRpLtF",
-    "multi_column_At7P4r",
+    "rich_text_YPtBph",
+    "video_eM6pdm",
     "faq_gMfhti"
   ]
 }
