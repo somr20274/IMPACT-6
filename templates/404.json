@@ -596,49 +596,6 @@
     },
     "multi_column_F8dYGp": {
       "type": "multi-column",
-      "blocks": {
-        "item_ccm9mp": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_nhTWxQ": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_d9rkPd": {
-          "type": "item",
-          "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_ccm9mp",
-        "item_nhTWxQ",
-        "item_d9rkPd"
-      ],
       "name": "Multi-column",
       "settings": {
         "full_width": true,
@@ -653,57 +610,34 @@
         "text_color": ""
       }
     },
-    "before_after_image_ccdx9V": {
-      "type": "before-after-image",
-      "name": "Before/after image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
-        "expand_image": false,
-        "text_position": "start",
-        "before_after_text_position": "top",
-        "before_text": "Before",
-        "after_text": "After",
-        "drag_initial_position": 50,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
-      }
-    },
     "rich_text_YPtBph": {
       "type": "rich-text",
       "blocks": {
-        "subheading_wjCLQ9": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_jFQdme": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
+            "text": "Des ingrédients naturelles pour un meilleur sommeil",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
+          }
+        },
+        "subheading_wjCLQ9": {
+          "type": "subheading",
+          "settings": {
+            "text": "🌿 Des ingrédients naturels, choisis pour leur efficacité"
           }
         },
         "richtext_TcQBjW": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>Notre patch sommeil est formulé à partir d’actifs reconnus pour leurs bienfaits sur le sommeil. Chacun a été sélectionné avec soin pour favoriser la détente, l’endormissement et un repos profond — naturellement et sans accoutumance.</p>"
           }
         }
       },
       "block_order": [
-        "subheading_wjCLQ9",
         "heading_jFQdme",
+        "subheading_wjCLQ9",
         "richtext_TcQBjW"
       ],
       "name": "Rich text",
@@ -716,35 +650,21 @@
         "text_color": ""
       }
     },
-    "video_eM6pdm": {
-      "type": "video",
-      "blocks": {
-        "play_QP3Wyx": {
-          "type": "play",
-          "settings": {}
-        },
-        "heading_TgtQH7": {
-          "type": "heading",
-          "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "play_QP3Wyx",
-        "heading_TgtQH7"
-      ],
-      "name": "Video",
+    "image_with_text_overlay_pdc88C": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "autoplay": false,
-        "video_size": "auto",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/39827aa4-ef03-487c-90c3-9b11d478f67b.png",
+        "mobile_image": "shopify://shop_images/39827aa4-ef03-487c-90c3-9b11d478f67b.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "faq_gMfhti": {
@@ -789,7 +709,7 @@
         "button_text": "",
         "button_url": "",
         "text_position": "center",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -816,9 +736,8 @@
     "image_with_text_overlay_LaCDqg",
     "image_with_text_overlay_MWp7BR",
     "multi_column_F8dYGp",
-    "before_after_image_ccdx9V",
     "rich_text_YPtBph",
-    "video_eM6pdm",
+    "image_with_text_overlay_pdc88C",
     "faq_gMfhti"
   ]
 }
