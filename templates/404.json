@@ -470,24 +470,24 @@
         "tab_YUjXx3": {
           "type": "tab",
           "settings": {
-            "title": "Tab 1",
-            "content": "<p>Use this text to share information about your brand with your customers.</p>",
+            "title": "🌙 DESCRIPTION",
+            "content": "<p><strong>Transformez vos nuits </strong><br/><br/>Conçu pour favoriser un endormissement rapide et un sommeil profond, ce patch diffuse en continu ses actifs tout au long de la nuit. Sans accoutumance, sans hormones et ultra facile à utiliser, il devient votre nouvel allié bien-être.<br/><br/>Discret, confortable, et efficace dès la première utilisation.</p>",
             "page": ""
           }
         },
         "tab_6NnAeL": {
           "type": "tab",
           "settings": {
-            "title": "Tab 2",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "🌿 COMPOSITION",
+            "content": "<p><strong>Ingrédients actifs</strong> :</p><ul><li>: régule naturellement le cycle du sommeil.<br/></li><li>(valériane, passiflore, camomille) : apaisent l’esprit et le corps.<br/></li><li>: soutient le système nerveux et la production naturelle de mélatonine.<br/></li></ul><p><strong>+</strong> Formule vegan, sans OGM, sans hormones, non testée sur les animaux.</p>",
             "page": ""
           }
         },
         "tab_kcyjjp": {
           "type": "tab",
           "settings": {
-            "title": "Tab 3",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "title": "💤 COMMENT L’UTILISER",
+            "content": "<h2></h2><ol><li>Enlever le film protecteur du patch.<br/></li><li>Coller sur une zone propre et sans poils : bras, épaule, cuisse ou bas du dos.<br/></li><li> Pendant la nuit. Le patch diffuse ses actifs pendant 6 à 8 heures.<br/></li><li>Une bonne nuit vous attend.</li></ol>",
             "page": ""
           }
         }
@@ -501,8 +501,8 @@
       "settings": {
         "full_width": true,
         "content_size": "medium",
-        "subheading": "Subheading",
-        "title": "Heading",
+        "subheading": "",
+        "title": "",
         "first_tab_open": false,
         "background": "#ffffff",
         "background_gradient": "",
