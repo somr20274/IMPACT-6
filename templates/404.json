@@ -344,10 +344,6 @@
     "featured_product_LkNRbJ": {
       "type": "featured-product",
       "blocks": {
-        "vendor_hKU6yp": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title_UKikFR": {
           "type": "title",
           "settings": {
@@ -380,6 +376,12 @@
             "collapse_content": false
           }
         },
+        "kaching_bundles_app_block_9nNVRe": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
         "variant_picker_NgBVz8": {
           "type": "variant_picker",
           "settings": {
@@ -405,28 +407,37 @@
             "payment_button_text_color": ""
           }
         },
+        "image_UWPNRk": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/PROMOTION_2025_9.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "pickup_availability_GkQrCg": {
           "type": "pickup_availability",
           "settings": {}
         }
       },
       "block_order": [
-        "vendor_hKU6yp",
         "title_UKikFR",
         "badges_3D7mi4",
         "price_TXdJQM",
         "rating_9TFxk6",
         "separator_RGrUei",
         "description_LaJ6EB",
+        "kaching_bundles_app_block_9nNVRe",
         "variant_picker_NgBVz8",
         "quantity_selector_VegFLT",
         "buy_buttons_aN7rCH",
+        "image_UWPNRk",
         "pickup_availability_GkQrCg"
       ],
       "name": "Featured product",
       "settings": {
         "full_width": true,
-        "product": "",
+        "product": "patchs-sommeil-profond",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
